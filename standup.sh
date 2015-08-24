@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 main() {
   cd ~/Projects/hubs
   echo "HUBS"
